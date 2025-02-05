@@ -1,13 +1,5 @@
 #include <stdio.h>
 
-void findmax(long *a, long *b)
-{
-	int temp;
-	temp = *a;
-	*a = *b;
-	*b = temp;
-}
-
 long recgcd(long a, long b)
 {	long rem;
 	rem = a % b;
