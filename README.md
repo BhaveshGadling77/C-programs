@@ -1,2 +1,2 @@
 # C-programs
-This is the repository where i upload code that are given in my assignments of PSPP.
+This is the repository where i upload my codes while learning C.
