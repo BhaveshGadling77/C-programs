@@ -1,0 +1,4 @@
+my name is Aditya
+this is the test file 
+for the wc programme in c which is 
+made by my own

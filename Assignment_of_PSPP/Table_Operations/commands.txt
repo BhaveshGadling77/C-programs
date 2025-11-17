@@ -1,0 +1,10 @@
+grade all
+grade 612303056 cn
+cgpa 612303105
+sgpa 612303074 1
+failed 612303083
+topsem 5
+topsub cn
+topnsub dsa 4
+stdev os
+exit
